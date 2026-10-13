@@ -187,7 +187,7 @@ jupyter notebook Practica_1_Taller_de_Numpy.ipynb
 ## 📚 Referencias
 
 - NumPy Developers. (s. f.). *NumPy user guide*. https://numpy.org/doc/stable/user/index.html
-- Tufiño, R. (2026). *Taller de nivelación: Python y NumPy. Fundamentos, estructuras de datos y manejo de arrays* [Material de clase, 6.º nivel]. Universidad Salesiana del Ecuador.
+- Tufiño, R. (2026). *Taller de nivelación: Python y NumPy. Fundamentos, estructuras de datos y manejo de arrays* [Material de clase, 6.º nivel]. Universidad Salesiana del Ecuador - Sede sur.
 
 ---
 
