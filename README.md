@@ -1,3 +1,5 @@
+<div align="center">
+
 # 🐍 Práctica N.º 1 · Taller de Python y NumPy
 
 ### Fundamentos, estructuras de datos y manejo de arrays
@@ -11,6 +13,8 @@
 ![License](https://img.shields.io/badge/Licencia-MIT-2ea44f?style=for-the-badge)
 
 **4 módulos · 16 ejercicios resueltos · explicados paso a paso**
+
+</div>
 
 ---
 
@@ -182,8 +186,11 @@ jupyter notebook Practica_1_Taller_de_Numpy.ipynb
 
 ## 📚 Referencias (APA 7.ª edición)
 
+- Google. (s. f.). *Colaboratory: Preguntas frecuentes*. https://research.google.com/colaboratory/faq.html
 - NumPy Developers. (s. f.). *NumPy user guide*. https://numpy.org/doc/stable/user/index.html
+- Python Software Foundation. (s. f.). *Python 3 documentation*. https://docs.python.org/3/
 - Tufiño, R. (2026). *Taller de nivelación: Python y NumPy. Fundamentos, estructuras de datos y manejo de arrays* [Material de clase, 6.º nivel]. Universidad Salesiana del Ecuador.
+- VanderPlas, J. (2016). *Python data science handbook: Essential tools for working with data*. O'Reilly Media.
 
 ---
 
